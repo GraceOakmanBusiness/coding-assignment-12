@@ -1,0 +1,1 @@
+This repository contains my work for Module 12, which focuses on applying advanced data analytics to evaluate business performance. The file included is module12-assignment.py, and I practiced descriptive, diagnostic, and predictive analysis.
